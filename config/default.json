@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://onoorshams:jsYjy4DXRQt3YQGw@cluster0.ipvo2vn.mongodb.net/"
+  "mongoURI": "mongodb+srv://onoorshams:jsYjy4DXRQt3YQGw@cluster0.ipvo2vn.mongodb.net/",
+  "jwtSeceret": "this-is-my-secret-token"
 }
